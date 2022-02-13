@@ -1,0 +1,5 @@
+To run my program, SetFinder.py, run
+cat test.txt | python3 SetFinder.py
+in the terminal.
+
+Then the program will print out the output back into the terminal.
